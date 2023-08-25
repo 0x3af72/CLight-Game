@@ -1,0 +1,6 @@
+# a rect that you can enter, making the light rays unable to exit. results are crazy.
+
+50 50 550 50
+550 50 550 550
+550 550 50 550
+50 550 50 50
